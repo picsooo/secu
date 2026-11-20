@@ -1,0 +1,450 @@
+[
+ {
+  "slug": "asg",
+  "name": "ASG",
+  "full": "L'Algérienne de Sécurité et de Gardiennage",
+  "group": "Filiale du groupe SAA",
+  "city": "Alger",
+  "stand": "K 16",
+  "accent": "#c8a24a",
+  "dark": "#0f1a14",
+  "tagline": "La sécurité de vos sites, assurée jour et nuit.",
+  "intro": "Gardiennage, surveillance et escorte de fonds pour les entreprises et institutions, avec la solidité d'un groupe public de référence.",
+  "about": "Filiale du groupe SAA, ASG accompagne les entreprises, les administrations et les sites industriels dans la protection de leurs personnes, de leurs biens et de leurs valeurs. Nos agents sont formés, encadrés et contrôlés en permanence, sur l'ensemble du territoire national.",
+  "stats": [
+   [
+    "24/7",
+    "Surveillance continue"
+   ],
+   [
+    "SAA",
+    "Un groupe de référence"
+   ],
+   [
+    "100 %",
+    "Agents formés et agréés"
+   ]
+  ],
+  "services": [
+   [
+    "Gardiennage de sites",
+    "Agents qualifiés pour la protection de vos locaux, chantiers et sites industriels, de jour comme de nuit."
+   ],
+   [
+    "Escorte de fonds",
+    "Accompagnement sécurisé des transports de valeurs, avec des équipes et des véhicules dédiés."
+   ],
+   [
+    "Contrôle d'accès",
+    "Filtrage des entrées, gestion des badges et accueil des visiteurs selon vos procédures."
+   ],
+   [
+    "Rondes et intervention",
+    "Rondes programmées et intervention rapide en cas d'alarme ou d'incident."
+   ],
+   [
+    "Sécurité événementielle",
+    "Dispositifs adaptés pour vos salons, conférences et manifestations."
+   ],
+   [
+    "Audit de sûreté",
+    "Analyse des risques de votre site et recommandations concrètes."
+   ]
+  ],
+  "phone": ""
+ },
+ {
+  "slug": "sakr-hirassa",
+  "name": "Sakr Hirassa",
+  "full": "Sakr Hirassa",
+  "group": "Transport de fonds et gardiennage",
+  "city": "Alger",
+  "stand": "K 24",
+  "accent": "#d94f2b",
+  "dark": "#141414",
+  "tagline": "Vos valeurs en mouvement, sous haute protection.",
+  "intro": "Transport de fonds, escorte et gardiennage pour les banques, la distribution et l'industrie.",
+  "about": "Sakr Hirassa met à votre service des équipes entraînées et des procédures rigoureuses pour le transport et la protection de vos valeurs. Chaque mission est planifiée, tracée et suivie jusqu'à sa clôture.",
+  "stats": [
+   [
+    "24/7",
+    "Centre de suivi"
+   ],
+   [
+    "0",
+    "Compromis sur la sécurité"
+   ],
+   [
+    "100 %",
+    "Missions tracées"
+   ]
+  ],
+  "services": [
+   [
+    "Transport de fonds",
+    "Collecte et livraison de valeurs entre vos agences, points de vente et banques."
+   ],
+   [
+    "Escorte armée",
+    "Escorte de convois sensibles par des agents habilités."
+   ],
+   [
+    "Gardiennage",
+    "Protection de vos sites par des agents formés et encadrés."
+   ],
+   [
+    "Traitement des valeurs",
+    "Comptage et conditionnement selon vos exigences."
+   ],
+   [
+    "Suivi en temps réel",
+    "Traçabilité de chaque mission, de l'enlèvement à la remise."
+   ],
+   [
+    "Conseil en sûreté",
+    "Évaluation des risques liés à la manipulation de vos valeurs."
+   ]
+  ],
+  "phone": ""
+ },
+ {
+  "slug": "spear",
+  "name": "Spear Protection et Sécurité",
+  "full": "Spear Protection et Sécurité",
+  "group": "Sûreté, HSE et transport de fonds",
+  "city": "Hassi Messaoud",
+  "stand": "J 15",
+  "accent": "#e3b33a",
+  "dark": "#1a1612",
+  "tagline": "Protéger les sites les plus exigeants du Sud.",
+  "intro": "Gardiennage, transport de fonds et prestations HSE pour l'industrie pétrolière et les bases de vie.",
+  "about": "Implantée à Hassi Messaoud, Spear Protection et Sécurité intervient sur les sites pétroliers, les bases de vie et les chantiers du Grand Sud. Nos équipes connaissent les contraintes du terrain et les standards des grands opérateurs.",
+  "stats": [
+   [
+    "24/7",
+    "Présence sur site"
+   ],
+   [
+    "Sud",
+    "Expertise terrain"
+   ],
+   [
+    "HSE",
+    "Culture sécurité"
+   ]
+  ],
+  "services": [
+   [
+    "Gardiennage industriel",
+    "Protection des sites pétroliers, bases de vie et chantiers."
+   ],
+   [
+    "Transport de fonds",
+    "Acheminement sécurisé des valeurs dans le Sud."
+   ],
+   [
+    "Prestations HSE",
+    "Agents HSE, sensibilisation et respect des procédures opérateurs."
+   ],
+   [
+    "Contrôle d'accès",
+    "Gestion des entrées des personnes et des véhicules sur site."
+   ],
+   [
+    "Escorte de convois",
+    "Accompagnement des déplacements de personnel et de matériel."
+   ],
+   [
+    "Audit et conseil",
+    "Plans de sûreté adaptés à vos installations."
+   ]
+  ],
+  "phone": ""
+ },
+ {
+  "slug": "aures-securite",
+  "name": "Aurès Sécurité et Services",
+  "full": "Aurès Sécurité et Services",
+  "group": "Filiale à 100 % du groupe GICA",
+  "city": "Batna",
+  "stand": "J 29",
+  "accent": "#4fa37a",
+  "dark": "#10171a",
+  "tagline": "La sécurité industrielle, maîtrisée de bout en bout.",
+  "intro": "Gardiennage industriel, sécurité incendie et services pour les sites de production.",
+  "about": "Filiale à 100 % du groupe GICA, Aurès Sécurité et Services est spécialisée dans le gardiennage et la sécurité des sites industriels, avec de nombreuses prestations associées. Nous protégeons les sites de production, les cimenteries et les installations du groupe et de ses partenaires.",
+  "stats": [
+   [
+    "24/7",
+    "Surveillance des sites"
+   ],
+   [
+    "GICA",
+    "Groupe industriel"
+   ],
+   [
+    "100 %",
+    "Équipements contrôlés"
+   ]
+  ],
+  "services": [
+   [
+    "Gardiennage industriel",
+    "Protection des usines, carrières et dépôts."
+   ],
+   [
+    "Sécurité incendie",
+    "Prévention, agents SSIAP et plans d'intervention."
+   ],
+   [
+    "Extincteurs",
+    "Fourniture, recharge et maintenance des extincteurs."
+   ],
+   [
+    "Contrôle d'accès",
+    "Filtrage des personnes et des véhicules."
+   ],
+   [
+    "Formation",
+    "Sensibilisation du personnel aux risques et aux premiers gestes."
+   ],
+   [
+    "Services généraux",
+    "Prestations de soutien pour vos sites."
+   ]
+  ],
+  "phone": ""
+ },
+ {
+  "slug": "gude",
+  "name": "Gude Algérie",
+  "full": "SARL Gude Algérie",
+  "group": "Fabricant de portes de sécurité",
+  "city": "Khemis El Khechna, Boumerdès",
+  "stand": "J 24 A",
+  "phone": "0540 20 88 11",
+  "accent": "#b8342f",
+  "dark": "#191515",
+  "tagline": "Des portes qui protègent, fabriquées en Algérie.",
+  "intro": "Portes de sécurité, portes coupe-feu et portes de chambre, conçues et fabriquées dans notre usine de Khemis El Khechna.",
+  "about": "SARL Gude Algérie conçoit et fabrique des portes de sécurité, des portes coupe-feu et des portes de chambre pour les logements, les bureaux, les hôtels et les bâtiments industriels. Chaque porte sort de notre atelier de Khemis El Khechna.",
+  "stats": [
+   [
+    "100 %",
+    "Fabrication locale"
+   ],
+   [
+    "EI",
+    "Portes coupe-feu"
+   ],
+   [
+    "Sur mesure",
+    "Dimensions et finitions"
+   ]
+  ],
+  "services": [
+   [
+    "Portes de sécurité",
+    "Portes blindées pour logements et bureaux, serrures multipoints."
+   ],
+   [
+    "Portes coupe-feu",
+    "Portes résistantes au feu pour bâtiments recevant du public et sites industriels."
+   ],
+   [
+    "Portes de chambre",
+    "Portes intérieures pour hôtels, résidences et promotions immobilières."
+   ],
+   [
+    "Sur mesure",
+    "Dimensions, finitions et coloris adaptés à votre projet."
+   ],
+   [
+    "Pose",
+    "Installation par nos équipes et réglage sur site."
+   ],
+   [
+    "Projets de promotion",
+    "Fourniture en volume pour promoteurs et entreprises de BTP."
+   ]
+  ],
+  "svc_title": "Une gamme complète de portes, du logement à l'industrie",
+  "band": "Un projet de portes ? Demandez votre devis.",
+  "field_title": "Un atelier, une équipe",
+  "field": "Nos portes sont fabriquées dans notre usine de Khemis El Khechna, contrôlées une à une, puis posées par nos équipes."
+ },
+ {
+  "slug": "az-innotech",
+  "name": "AZ Innotech",
+  "full": "AZ Innotech",
+  "group": "Innovating Technology",
+  "city": "Hamiz, Dar El Beïda, Alger",
+  "stand": "I 19 B",
+  "accent": "#2f8fd8",
+  "dark": "#0d1320",
+  "tagline": "La technologie au service de la sécurité de vos bâtiments.",
+  "intro": "Solutions informatiques, réseaux et systèmes de sécurité électronique pour les entreprises et les projets de construction.",
+  "about": "AZ Innotech accompagne les entreprises et les maîtres d'ouvrage dans l'intégration de leurs systèmes informatiques et de sécurité : réseaux, vidéosurveillance, contrôle d'accès et équipements connectés.",
+  "stats": [
+   [
+    "IT",
+    "Intégrateur de solutions"
+   ],
+   [
+    "360°",
+    "Étude, pose, maintenance"
+   ],
+   [
+    "Alger",
+    "Intervention nationale"
+   ]
+  ],
+  "services": [
+   [
+    "Vidéosurveillance",
+    "Caméras IP, enregistreurs et supervision à distance."
+   ],
+   [
+    "Contrôle d'accès",
+    "Badges, biométrie et gestion des entrées."
+   ],
+   [
+    "Réseaux et câblage",
+    "Câblage structuré, baies et réseaux sans fil."
+   ],
+   [
+    "Systèmes connectés",
+    "Solutions intelligentes pour bâtiments et sites."
+   ],
+   [
+    "Matériel informatique",
+    "Fourniture de postes, serveurs et périphériques."
+   ],
+   [
+    "Maintenance",
+    "Contrats de maintenance et assistance."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Des solutions intégrées, de l'étude à la maintenance",
+  "band": "Un projet d'équipement ? Parlons-en.",
+  "field_title": "Des techniciens certifiés",
+  "field": "Nos techniciens étudient votre site, installent les équipements et forment vos équipes à leur utilisation."
+ },
+ {
+  "slug": "lekhoua-ecs",
+  "name": "Lekhoua ECS",
+  "full": "Lekhoua Electronics and Communication Systems",
+  "group": "Systèmes intelligents",
+  "city": "El Oued",
+  "stand": "K 11 A",
+  "phone": "0770 93 65 40",
+  "accent": "#e08a1e",
+  "dark": "#17130e",
+  "tagline": "Systèmes intelligents, installés dans les règles de l'art.",
+  "intro": "Vente et installation de tous les systèmes intelligents : vidéosurveillance, alarmes, contrôle d'accès et domotique.",
+  "about": "EURL Lekhoua ECS vend et installe tous types de systèmes intelligents pour les particuliers, les commerces et les entreprises d'El Oued et du Sud : caméras, alarmes, interphones, contrôle d'accès et domotique.",
+  "stats": [
+   [
+    "Sud",
+    "Implantation El Oued"
+   ],
+   [
+    "360°",
+    "Vente et installation"
+   ],
+   [
+    "SAV",
+    "Suivi après pose"
+   ]
+  ],
+  "services": [
+   [
+    "Vidéosurveillance",
+    "Caméras HD et IP, consultation sur smartphone."
+   ],
+   [
+    "Alarmes",
+    "Détection d'intrusion et alertes en temps réel."
+   ],
+   [
+    "Contrôle d'accès",
+    "Serrures connectées, badges et biométrie."
+   ],
+   [
+    "Interphonie",
+    "Interphones et visiophones pour maisons et immeubles."
+   ],
+   [
+    "Domotique",
+    "Éclairage, volets et équipements pilotés à distance."
+   ],
+   [
+    "Installation et SAV",
+    "Pose, configuration et maintenance."
+   ]
+  ],
+  "svc_title": "Tous les systèmes intelligents, posés par des pros",
+  "band": "Sécurisez votre maison ou votre commerce.",
+  "field_title": "Une équipe locale, réactive",
+  "field": "Basés à El Oued, nous intervenons rapidement pour l'installation, la configuration et le dépannage de vos systèmes."
+ },
+ {
+  "slug": "mca-steel",
+  "name": "MCA Steel",
+  "full": "SARL MCA Steel",
+  "group": "Industrie mécanique · Groupe Mecheri",
+  "city": "Bordj Bou Arreridj",
+  "stand": "D 22",
+  "accent": "#9aa5ad",
+  "dark": "#121619",
+  "tagline": "Usinage, galvanisation et boulonnerie pour l'industrie.",
+  "intro": "Industrie mécanique : usinage, galvanisation, boulonnerie et visserie pour les industriels et le BTP.",
+  "about": "SARL MCA Steel, membre du groupe Mecheri, est un acteur de l'industrie mécanique à Bordj Bou Arreridj. Nous usinons, galvanisons et fabriquons la boulonnerie et la visserie dont ont besoin l'industrie, le BTP et les structures métalliques.",
+  "stats": [
+   [
+    "Groupe",
+    "Mecheri"
+   ],
+   [
+    "3",
+    "Métiers complémentaires"
+   ],
+   [
+    "BBA",
+    "Unité de production"
+   ]
+  ],
+  "services": [
+   [
+    "Usinage",
+    "Pièces mécaniques à la demande, en série ou à l'unité."
+   ],
+   [
+    "Galvanisation",
+    "Protection anticorrosion des pièces et structures en acier."
+   ],
+   [
+    "Boulonnerie",
+    "Boulons de structure et de fixation."
+   ],
+   [
+    "Visserie",
+    "Vis et éléments de fixation industriels."
+   ],
+   [
+    "Pièces sur plan",
+    "Fabrication selon vos plans et cahiers des charges."
+   ],
+   [
+    "Contrôle qualité",
+    "Vérification dimensionnelle et suivi des lots."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Trois métiers au service de l'industrie",
+  "band": "Un besoin en pièces ou en galvanisation ? Contactez-nous.",
+  "field_title": "Un outil de production moderne",
+  "field": "Nos ateliers d'usinage et de galvanisation produisent des pièces fiables, contrôlées et livrées dans les délais."
+ }
+]
