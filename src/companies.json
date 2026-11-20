@@ -446,5 +446,411 @@
   "band": "Un besoin en pièces ou en galvanisation ? Contactez-nous.",
   "field_title": "Un outil de production moderne",
   "field": "Nos ateliers d'usinage et de galvanisation produisent des pièces fiables, contrôlées et livrées dans les délais."
+ },
+ {
+  "slug": "algerie-secutique",
+  "name": "Algérie Secutique",
+  "full": "Algérie Secutique",
+  "group": "Protection incendie",
+  "city": "Réghaïa, Alger",
+  "stand": "F 18",
+  "accent": "#d1342c",
+  "dark": "#141618",
+  "tagline": "Protéger vos bâtiments contre le feu, de l'étude à la maintenance.",
+  "intro": "Détection, extinction et maintenance incendie pour l'industrie, le tertiaire et les établissements recevant du public.",
+  "about": "Algérie Secutique accompagne les industriels, les promoteurs et les gestionnaires de bâtiments dans la protection contre l'incendie : étude, fourniture, installation et maintenance des équipements, dans le respect de la réglementation.",
+  "stats": [
+   [
+    "24/7",
+    "Assistance technique"
+   ],
+   [
+    "Étude",
+    "Conformité réglementaire"
+   ],
+   [
+    "Réghaïa",
+    "Zone industrielle"
+   ]
+  ],
+  "services": [
+   [
+    "Extincteurs",
+    "Fourniture, recharge et vérification réglementaire de vos extincteurs."
+   ],
+   [
+    "Détection incendie",
+    "Centrales, détecteurs et déclencheurs manuels."
+   ],
+   [
+    "Extinction automatique",
+    "Systèmes à gaz, sprinklers et RIA."
+   ],
+   [
+    "Désenfumage",
+    "Solutions de désenfumage pour bâtiments et parkings."
+   ],
+   [
+    "Maintenance",
+    "Contrats de maintenance et contrôles périodiques."
+   ],
+   [
+    "Formation",
+    "Formation du personnel à l'évacuation et aux premiers gestes."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Toute la chaîne de la sécurité incendie",
+  "band": "Votre installation est-elle conforme ? Parlons-en.",
+  "field_title": "Des techniciens qualifiés",
+  "field": "Nos techniciens réalisent les études, la pose et les contrôles périodiques, avec un rapport détaillé après chaque intervention."
+ },
+ {
+  "slug": "global-fire",
+  "name": "Global Fire Sécurité",
+  "full": "Global Fire Sécurité Algeria",
+  "group": "Sécurité incendie",
+  "city": "Bordj El Kiffan, Alger",
+  "stand": "J 19",
+  "accent": "#e8572a",
+  "dark": "#16120f",
+  "tagline": "La sécurité incendie, sans compromis.",
+  "intro": "Équipements de lutte contre l'incendie, installation et maintenance pour les entreprises et les bâtiments publics.",
+  "about": "Global Fire Sécurité Algeria fournit, installe et entretient les équipements de protection contre l'incendie pour les entreprises, les chantiers et les bâtiments recevant du public.",
+  "stats": [
+   [
+    "24/7",
+    "Intervention"
+   ],
+   [
+    "360°",
+    "Fourniture, pose, entretien"
+   ],
+   [
+    "Alger",
+    "Zone d'intervention"
+   ]
+  ],
+  "services": [
+   [
+    "Extincteurs",
+    "Fourniture, recharge et vérification réglementaire de vos extincteurs."
+   ],
+   [
+    "Détection incendie",
+    "Centrales, détecteurs et déclencheurs manuels."
+   ],
+   [
+    "Extinction automatique",
+    "Systèmes à gaz, sprinklers et RIA."
+   ],
+   [
+    "Désenfumage",
+    "Solutions de désenfumage pour bâtiments et parkings."
+   ],
+   [
+    "Maintenance",
+    "Contrats de maintenance et contrôles périodiques."
+   ],
+   [
+    "Formation",
+    "Formation du personnel à l'évacuation et aux premiers gestes."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Des équipements fiables, entretenus dans les règles",
+  "band": "Un bâtiment à sécuriser ? Demandez un diagnostic.",
+  "field_title": "Une équipe qui suit vos installations",
+  "field": "Nous assurons les vérifications périodiques et tenons à jour le registre de sécurité de votre établissement."
+ },
+ {
+  "slug": "bahoussi",
+  "name": "Bahoussi Équipements",
+  "full": "Bahoussi Équipements",
+  "group": "Équipements de sécurité",
+  "city": "Alger",
+  "stand": "J 17",
+  "accent": "#2f7d8a",
+  "dark": "#0f1617",
+  "tagline": "Les bons équipements pour travailler en sécurité.",
+  "intro": "Fourniture d'équipements de sécurité et de protection pour les entreprises, les chantiers et l'industrie.",
+  "about": "Bahoussi Équipements fournit aux entreprises et aux chantiers les équipements dont ils ont besoin pour protéger leurs équipes et leurs sites, avec un conseil adapté à chaque activité.",
+  "stats": [
+   [
+    "Stock",
+    "Disponibilité rapide"
+   ],
+   [
+    "Conseil",
+    "Choix adapté à vos risques"
+   ],
+   [
+    "Alger",
+    "Livraison"
+   ]
+  ],
+  "services": [
+   [
+    "Équipements de protection",
+    "Casques, gants, gilets, harnais et protections respiratoires."
+   ],
+   [
+    "Signalisation",
+    "Panneaux, balisage et marquage de sécurité."
+   ],
+   [
+    "Lutte incendie",
+    "Extincteurs, robinets incendie et accessoires."
+   ],
+   [
+    "Premiers secours",
+    "Trousses et armoires à pharmacie."
+   ],
+   [
+    "Chantiers",
+    "Équipements pour les travaux en hauteur et en milieu confiné."
+   ],
+   [
+    "Entreprises",
+    "Dotations annuelles et commandes en volume."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Tout l'équipement de sécurité au même endroit",
+  "band": "Besoin d'équiper vos équipes ? Demandez un devis.",
+  "field_title": "Un fournisseur à votre écoute",
+  "field": "Nous vous aidons à choisir les bons équipements selon vos risques, puis nous livrons rapidement sur vos sites."
+ },
+ {
+  "slug": "manah",
+  "name": "Manah",
+  "full": "Manah Chaussures de Sécurité",
+  "group": "Chaussures de sécurité",
+  "city": "Draria, Alger",
+  "stand": "K 24 B",
+  "accent": "#c9862c",
+  "dark": "#1a1510",
+  "tagline": "Des chaussures de sécurité pensées pour durer.",
+  "intro": "Chaussures de sécurité pour l'industrie, le BTP et la logistique : protection, confort et résistance.",
+  "about": "Manah conçoit et distribue des chaussures de sécurité destinées aux travailleurs de l'industrie, du BTP, de la logistique et des services. Protection, confort et durabilité sont au cœur de chaque modèle.",
+  "stats": [
+   [
+    "S1P/S3",
+    "Normes de protection"
+   ],
+   [
+    "Pro",
+    "Industrie et BTP"
+   ],
+   [
+    "Volume",
+    "Dotations entreprises"
+   ]
+  ],
+  "services": [
+   [
+    "Chaussures S3",
+    "Coque, semelle anti-perforation et résistance à l'eau."
+   ],
+   [
+    "Chaussures S1P",
+    "Légères et respirantes pour la logistique et l'industrie."
+   ],
+   [
+    "Bottes de sécurité",
+    "Pour l'agroalimentaire et les milieux humides."
+   ],
+   [
+    "Modèles BTP",
+    "Robustes, adaptées aux chantiers."
+   ],
+   [
+    "Dotations",
+    "Commandes en volume pour vos équipes."
+   ],
+   [
+    "Personnalisation",
+    "Logo et coloris pour les grandes commandes."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Une gamme pour chaque métier",
+  "band": "Équipez vos équipes : demandez notre catalogue.",
+  "field_title": "Confort et protection",
+  "field": "Chaque modèle est sélectionné pour la protection, le confort sur une journée complète et la résistance dans le temps."
+ },
+ {
+  "slug": "innovat-electratech",
+  "name": "Innovat Electratech",
+  "full": "Innovat Electratech",
+  "group": "Électricité et sécurité électronique",
+  "city": "Bab Ezzouar, Alger",
+  "stand": "J 04",
+  "accent": "#3aa0a8",
+  "dark": "#0e1618",
+  "tagline": "L'électricité et la sécurité de vos bâtiments, en un seul interlocuteur.",
+  "intro": "Installations électriques, courants faibles et systèmes de sécurité électronique pour les entreprises.",
+  "about": "Innovat Electratech réalise les installations électriques et de courants faibles des bâtiments professionnels : alimentation, éclairage, vidéosurveillance, contrôle d'accès et détection.",
+  "stats": [
+   [
+    "CF/CF",
+    "Courants forts et faibles"
+   ],
+   [
+    "Étude",
+    "Conception et pose"
+   ],
+   [
+    "SAV",
+    "Maintenance"
+   ]
+  ],
+  "services": [
+   [
+    "Électricité",
+    "Tableaux, distribution et éclairage."
+   ],
+   [
+    "Vidéosurveillance",
+    "Caméras et supervision."
+   ],
+   [
+    "Contrôle d'accès",
+    "Badges, tourniquets et portiques."
+   ],
+   [
+    "Détection",
+    "Intrusion et incendie."
+   ],
+   [
+    "Réseaux",
+    "Câblage et infrastructures réseau."
+   ],
+   [
+    "Maintenance",
+    "Contrats d'entretien et dépannage."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Courants forts et courants faibles",
+  "band": "Un projet d'installation ? Parlons-en.",
+  "field_title": "Des équipes techniques qualifiées",
+  "field": "Nos électriciens et techniciens courants faibles interviennent de l'étude à la mise en service."
+ },
+ {
+  "slug": "inelso",
+  "name": "Inelso",
+  "full": "Inelso Company",
+  "group": "Solutions électriques et sécurité",
+  "city": "Tizi Ouzou",
+  "stand": "J 09",
+  "accent": "#5b8f3a",
+  "dark": "#11160e",
+  "tagline": "Des installations sûres et performantes.",
+  "intro": "Installations électriques, équipements et solutions de sécurité pour les professionnels de Tizi Ouzou et de la région.",
+  "about": "Inelso Company accompagne les entreprises et les collectivités de la région de Tizi Ouzou dans leurs projets d'installations électriques et de sécurité, de l'étude à la maintenance.",
+  "stats": [
+   [
+    "Kabylie",
+    "Implantation régionale"
+   ],
+   [
+    "Étude",
+    "Conseil et conception"
+   ],
+   [
+    "SAV",
+    "Suivi après pose"
+   ]
+  ],
+  "services": [
+   [
+    "Installations électriques",
+    "Bâtiments tertiaires et industriels."
+   ],
+   [
+    "Sécurité électronique",
+    "Vidéosurveillance et alarmes."
+   ],
+   [
+    "Équipements",
+    "Fourniture de matériel électrique."
+   ],
+   [
+    "Éclairage",
+    "Éclairage intérieur, extérieur et LED."
+   ],
+   [
+    "Maintenance",
+    "Dépannage et contrats d'entretien."
+   ],
+   [
+    "Études",
+    "Dimensionnement et plans."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Électricité et sécurité, de l'étude à la pose",
+  "band": "Un projet dans la région ? Contactez-nous.",
+  "field_title": "Une équipe de proximité",
+  "field": "Basés à Tizi Ouzou, nous intervenons rapidement sur vos chantiers et vos sites."
+ },
+ {
+  "slug": "sarel",
+  "name": "Sarel",
+  "full": "Sarel",
+  "group": "Radiocommunication professionnelle",
+  "city": "Oued Smar, Alger",
+  "stand": "K 06",
+  "accent": "#4a6fd6",
+  "dark": "#0e1220",
+  "tagline": "Des communications fiables pour vos équipes de terrain.",
+  "intro": "Radiocommunication professionnelle pour la sécurité, l'industrie et les services : talkies-walkies, relais et réseaux.",
+  "about": "Sarel fournit et installe des solutions de radiocommunication professionnelle pour les sociétés de sécurité, les industriels et les services publics : terminaux, relais, réseaux et maintenance.",
+  "stats": [
+   [
+    "Radio",
+    "Communication pro"
+   ],
+   [
+    "Réseaux",
+    "Relais et couverture"
+   ],
+   [
+    "SAV",
+    "Atelier technique"
+   ]
+  ],
+  "services": [
+   [
+    "Talkies-walkies",
+    "Terminaux portatifs robustes pour les équipes de terrain."
+   ],
+   [
+    "Radios mobiles",
+    "Postes embarqués pour véhicules."
+   ],
+   [
+    "Relais",
+    "Extension de la couverture de vos sites."
+   ],
+   [
+    "Réseaux numériques",
+    "Solutions DMR et réseaux multisites."
+   ],
+   [
+    "Accessoires",
+    "Batteries, oreillettes et chargeurs."
+   ],
+   [
+    "Maintenance",
+    "Programmation, réparation et suivi."
+   ]
+  ],
+  "phone": "",
+  "svc_title": "Toute la chaîne de la radiocommunication",
+  "band": "Vos équipes communiquent-elles bien ? Parlons-en.",
+  "field_title": "Un atelier technique",
+  "field": "Nous programmons, installons et réparons vos équipements dans notre atelier d'Oued Smar."
  }
 ]
